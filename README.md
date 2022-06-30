@@ -8,7 +8,7 @@ This is a summary report for kookmin-002 algorithms which submitted to [FRVT 1:1
 
 ## Methods
 
-Build a framework to extract n-dim facial feature from input face image to verify identification.
+Build a framework to extract n-dim facial features from input face images to verify identification.
 
 ![example of FRVT 1:1 Verification test dataset](attachment/ex_testset.png)
 
