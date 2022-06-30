@@ -12,7 +12,6 @@ Build a framework to extract n-dim facial feature from input face image to verif
 
 ![example of FRVT 1:1 Verification test dataset](attachment/ex_testset.png)
 
-example of FRVT 1:1 Verification test dataset
 
 ## Results
 
@@ -20,6 +19,5 @@ We submitted our submission package named as kookmin-002 on 2021 March and it ra
 
 ![captured result from official summary report](attachment/frvt_result.png)
 
-captured result from official summary report
 
 For more information, it could be downloaded from the link [here](https://github.com/usnistgov/frvt/blob/nist-pages/reports/11/frvt_11_report_2021_06_28.pdf)
